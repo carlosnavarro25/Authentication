@@ -1,4 +1,4 @@
-// index.android.js  -PONER TODO CODIGO PARA ANDROID!!!
+// index.android.js  -PONER TODO CODIGO PARA ANDRoOID!!!
 /*import a library to help create a Component*/
 import React from 'react';
 import { AppRegistry, View } from 'react-native';
